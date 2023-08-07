@@ -1,4 +1,4 @@
-# Hosted link 
+# Hosted link  https://ayush19bansal.github.io/typograph/
 # HTML
 ![image](https://github.com/Ayush19bansal/typograph/assets/118842033/10355def-5ffb-421c-8be3-dba122426f1a)
 ![image](https://github.com/Ayush19bansal/typograph/assets/118842033/dd7f006c-201b-40b6-b875-bc851e7311c9)
